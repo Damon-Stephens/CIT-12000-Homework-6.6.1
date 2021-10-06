@@ -23,7 +23,7 @@ function attack(type,damage){
         ele.innerHTML="Thou hath slain the dragon. Once thou art done admiring thine handiwork, return from whence thy came, to collect thine reward and pay remembrance to the mighty battle thou hath fought today.";
         wrapper.appendChild(ele);
         document.getElementById("flash").style.borderColor = "rgba(0, 0, 0, 0)";
-        document.getElementById("flash").style.backgroundImage = "url(\"../images/please.jpg\")"
+        document.getElementById("flash").style.backgroundImage = "url(https://i.pinimg.com/originals/63/1f/31/631f3192b1625c4fdc09be47c3203b5c.jpg)"
     }
 
 
